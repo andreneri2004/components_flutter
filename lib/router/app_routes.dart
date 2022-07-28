@@ -13,6 +13,7 @@ class AppRoutes {
     MenuOption(route: 'listView2', name: 'List View 2', screen: const ListVie2Screen(), icon: Icons.list_alt),
     MenuOption(route: 'avatar', name: 'Avatar', screen: const AvatarScreen(), icon: Icons.child_care_rounded),
      MenuOption(route: 'animated', name: 'Animação', screen: const AnimatedScreen(), icon: Icons.play_arrow_rounded),
+      MenuOption(route: 'inputs', name: 'Inputs', screen: const InputsScreen(), icon: Icons.input_rounded),
   ];
 
   static Map<String, Widget Function(BuildContext)> getAppRoutes(){

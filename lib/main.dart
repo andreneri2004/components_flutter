@@ -1,7 +1,7 @@
 import 'package:components/router/app_routes.dart';
 import 'package:components/theme/app_theme.dart';
 import 'package:flutter/material.dart';
-import 'package:components/src/screens/screens.dart';
+
 
 void main() {
   runApp(const MyApp());
