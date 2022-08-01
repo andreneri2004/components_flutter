@@ -6,3 +6,4 @@ export 'package:components/src/screens/Inputs_screen.dart';
 export 'package:components/src/screens/home_screen.dart';
 export 'package:components/src/screens/listview1_screen.dart';
 export 'package:components/src/screens/listview2_screen.dart';
+export 'package:components/src/screens/slider_screen.dart';
